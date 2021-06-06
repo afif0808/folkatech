@@ -10,7 +10,7 @@ jika ada waktu saya insya allah bisa merapikan kodenya menjadi lebih baik.
 
 <h2>Basic Chat Messaging System Database</h2>
 
-Untuk test yang ini, saya memilih NoSQL yaitu MongoDB. Alasanya ialah karena berdasarkan dari apa yang saya baca , MongoDB lebih cepat dari SQL, namun saya belum mengerti semua alasanya , tapi yang saya tahu untuk kebutuhan yang rumit seperti chat app yang mana dibutuhkan relationship antar entity yang banyak atau ternomalisasi agar scalable 
+
 
 Untuk test yang ini, saya memilih NoSQL yaitu MongoDB. Alasanya ialah karena berdasarkan dari apa yang saya baca , MongoDB lebih cepat dari MySQL, namun saya belum mengerti semua alasanya , tapi untuk kebutuhan yang ini menurut saya MongoDB adalah pilihan yang sesuai.
 
