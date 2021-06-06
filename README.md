@@ -18,6 +18,8 @@ Untuk test yang ini, saya memilih NoSQL yaitu MongoDB. Alasanya ialah karena ber
 
 Dengan SQL saya mendesain chat messaging app seperti ini 
 
+<img src="chat_sql_schema.png" />
+
 
 
 
