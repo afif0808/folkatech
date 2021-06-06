@@ -8,22 +8,8 @@
         "_id" : "",
         "sender_id" : "",
         "status" : ""
-    },
-    "direct_messages" : { 
-        "receiver_id" : "",
-        "message_id" : ""
-    },
-    "group_messages" :  {
-        "group_id" : "",
-        "message_id" : ""
-    },
-    "text_messages" :  {
-        "message_id" : "",
-        "text" : ""
-    },
-    "file_messages" : {
-        "file" : "",
-        "message_id" : ""
+        // Untuk content dan penerima disesuaikan nantinya
+        // seperti 'group_id' atau 'receiver_id/user_id' dan 'file' atau 'text'  "
     },
     "groups" : {
         "_id" : "",
