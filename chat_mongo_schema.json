@@ -1,0 +1,34 @@
+{
+    "users" : {
+        "_id" : "",
+        "name" : "",
+        "phone" : ""
+    },
+    "messages" : {
+        "_id" : "",
+        "sender_id" : "",
+        "status" : ""
+    },
+    "direct_messages" : { 
+        "receiver_id" : "",
+        "message_id" : ""
+    },
+    "group_messages" :  {
+        "group_id" : "",
+        "message_id" : ""
+    },
+    "text_messages" :  {
+        "message_id" : "",
+        "text" : ""
+    },
+    "file_messages" : {
+        "file" : "",
+        "message_id" : ""
+    },
+    "groups" : {
+        "_id" : "",
+        "name" : "",
+        "members" : [],
+        "admins" : []
+    }
+}
